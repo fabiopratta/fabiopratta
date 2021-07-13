@@ -10,7 +10,7 @@
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiopratta)] https://github.com/fabiopratta
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiopratta/)] https://www.linkedin.com/in/fabiopratta/
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=+5514997157886&text=)] api.whatsapp.com/send?phone=+5514997157886&text=Olá
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5514997157886&text=)] https://api.whatsapp.com/send?phone=+5514997157886&text=Olá
 
 ## Languages and Tools:
 [![fabiopratta GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopratta)](https://github.com/fabiopratta/github-readme-stats)]
