@@ -26,6 +26,7 @@
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/php-007ACC?style=for-the-badge&logo=php&logoColor=white"></code>
 
 - Thanks for visiting.
 - Enjoy it!! o/
