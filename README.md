@@ -3,7 +3,7 @@
  
 ## I'm Fabio Pratta!
  
-:computer: I'm Fullstack Developer!
+:computer: I'm FullStack Developer | PHP | Laravel | JS | Mysql | IONIC | Flutter | Android | IOs!
 :house_with_garden: I’m from Brazil.
 :books: I’m currently learning everything.
 :outbox_tray: 2021 Goals: create a new project and find a new job.
