@@ -12,13 +12,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiopratta/)] https://www.linkedin.com/in/fabiopratta/
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=+5514997157886&text=)] api.whatsapp.com/send?phone=+5514997157886&text=Olá
 
-<br/>
 ## Languages and Tools:
-[![fabiopratta GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopratta)](https://github.com/fabiopratta/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopratta&layout=compact)](https://github.com/fabiopratta/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabiopratta&layout=compact)](https://github.com/fabiopratta/github-readme-stats)
+[![fabiopratta GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopratta)](https://github.com/fabiopratta/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopratta&layout=compact)](https://github.com/fabiopratta/github-readme-stats)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabiopratta&layout=compact)](https://github.com/fabiopratta/github-readme-stats)]
 
-<br/>
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
