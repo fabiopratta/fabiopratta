@@ -3,14 +3,14 @@
  
 ## I'm Fabio Pratta!
  
-:computer: I'm FullStack Developer | PHP | Laravel | JS | Mysql | IONIC | Flutter | Android | IOs!
-:house_with_garden: I’m from Brazil.
-:books: I’m currently learning everything.
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:computer: I'm FullStack Developer | PHP | Laravel | JS | Mysql | IONIC | Flutter | Android | IOs! <br/>
+:house_with_garden: I’m from Brazil.<br/>
+:books: I’m currently learning everything.<br/>
+:outbox_tray: 2021 Goals: create a new project and find a new job.<br/>
  
 ## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiopratta)] https://github.com/fabiopratta
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiopratta/)] https://www.linkedin.com/in/fabiopratta/
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiopratta)] 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiopratta/)]
 
 - Thanks for visiting.
 - Enjoy it!! o/
